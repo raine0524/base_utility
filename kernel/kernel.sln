@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KBASE", "KBASE\KBASE.vcproj", "{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KCOMM", "KCOMM\KCOMM.vcproj", "{208EC699-F029-4206-94AF-D42DF3AE0B64}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KDBAPI", "KDBAPI\KDBAPI.vcproj", "{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNET", "KNET\KNET.vcproj", "{6CA2425A-A52D-4145-9AFB-6699382382EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KRTL32", "KRTL32\KRTL32.vcproj", "{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Dynamic Link Library|Win32 = Debug Dynamic Link Library|Win32
+		Debug Static Link Library|Win32 = Debug Static Link Library|Win32
+		Debug|Win32 = Debug|Win32
+		DebugUnicode|Win32 = DebugUnicode|Win32
+		Release|Win32 = Release|Win32
+		Unicode EXE Debug|Win32 = Unicode EXE Debug|Win32
+		Unicode EXE Release|Win32 = Unicode EXE Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Dynamic Link Library|Win32.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Dynamic Link Library|Win32.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Static Link Library|Win32.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Static Link Library|Win32.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug|Win32.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.DebugUnicode|Win32.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.DebugUnicode|Win32.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Release|Win32.ActiveCfg = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Release|Win32.Build.0 = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Debug|Win32.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Debug|Win32.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Release|Win32.ActiveCfg = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Release|Win32.Build.0 = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Dynamic Link Library|Win32.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Dynamic Link Library|Win32.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Static Link Library|Win32.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Static Link Library|Win32.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug|Win32.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug|Win32.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.DebugUnicode|Win32.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.DebugUnicode|Win32.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Release|Win32.ActiveCfg = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Release|Win32.Build.0 = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Debug|Win32.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Debug|Win32.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Release|Win32.ActiveCfg = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Release|Win32.Build.0 = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Dynamic Link Library|Win32.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Dynamic Link Library|Win32.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Static Link Library|Win32.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Static Link Library|Win32.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug|Win32.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.DebugUnicode|Win32.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.DebugUnicode|Win32.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Release|Win32.ActiveCfg = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Release|Win32.Build.0 = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Debug|Win32.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Debug|Win32.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Release|Win32.ActiveCfg = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Release|Win32.Build.0 = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Dynamic Link Library|Win32.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Dynamic Link Library|Win32.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Static Link Library|Win32.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Static Link Library|Win32.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug|Win32.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.DebugUnicode|Win32.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.DebugUnicode|Win32.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Release|Win32.ActiveCfg = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Release|Win32.Build.0 = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Debug|Win32.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Debug|Win32.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Release|Win32.ActiveCfg = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Release|Win32.Build.0 = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Dynamic Link Library|Win32.ActiveCfg = Debug Dynamic Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Dynamic Link Library|Win32.Build.0 = Debug Dynamic Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Static Link Library|Win32.ActiveCfg = Debug Static Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Static Link Library|Win32.Build.0 = Debug Static Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug|Win32.Build.0 = Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.DebugUnicode|Win32.ActiveCfg = DebugUnicode|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.DebugUnicode|Win32.Build.0 = DebugUnicode|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Release|Win32.ActiveCfg = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Release|Win32.Build.0 = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Debug|Win32.ActiveCfg = Unicode EXE Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Debug|Win32.Build.0 = Unicode EXE Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Release|Win32.ActiveCfg = Unicode EXE Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Release|Win32.Build.0 = Unicode EXE Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

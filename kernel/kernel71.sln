@@ -1,0 +1,144 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KBASE", "KBASE\KBASE71.vcproj", "{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KDBAPI", "KDBAPI\KDBAPI71.vcproj", "{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KNET", "KNET\KNET71.vcproj", "{6CA2425A-A52D-4145-9AFB-6699382382EC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KRTL32", "KRTL32\KRTL3271.vcproj", "{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KVCL32", "KVCL32\KVCL3271.vcproj", "{A92D898F-6E4B-48E7-B115-718D08B91921}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KCOMM", "KCOMM\KCOMM71.vcproj", "{208EC699-F029-4206-94AF-D42DF3AE0B64}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVCON", "..\test\AVCON\AVCON71.vcproj", "{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Debug Dynamic Link Library = Debug Dynamic Link Library
+		Debug Static Link Library = Debug Static Link Library
+		DebugUnicode = DebugUnicode
+		Release = Release
+		Unicode EXE Debug = Unicode EXE Debug
+		Unicode EXE Release = Unicode EXE Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Debug Static Link Library.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.DebugUnicode.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.DebugUnicode.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Release.ActiveCfg = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Release.Build.0 = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{1EC48FFF-FF13-4FE6-8F29-C545FE91F150}.Unicode EXE Release.Build.0 = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Debug Static Link Library.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.DebugUnicode.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.DebugUnicode.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Release.ActiveCfg = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Release.Build.0 = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{4EF8E535-F91E-46BB-AFEA-7EC910F0D4BC}.Unicode EXE Release.Build.0 = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Debug Static Link Library.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.DebugUnicode.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.DebugUnicode.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Release.ActiveCfg = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Release.Build.0 = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{6CA2425A-A52D-4145-9AFB-6699382382EC}.Unicode EXE Release.Build.0 = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug.ActiveCfg = Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug.Build.0 = Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Dynamic Link Library.ActiveCfg = Debug Dynamic Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Dynamic Link Library.Build.0 = Debug Dynamic Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Static Link Library.ActiveCfg = Debug Static Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Debug Static Link Library.Build.0 = Debug Static Link Library|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.DebugUnicode.ActiveCfg = DebugUnicode|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.DebugUnicode.Build.0 = DebugUnicode|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Release.ActiveCfg = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Release.Build.0 = Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Debug.ActiveCfg = Unicode EXE Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Debug.Build.0 = Unicode EXE Debug|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Release.ActiveCfg = Unicode EXE Release|Win32
+		{A5D4ACF0-708F-476C-B0C4-19AED4ED0684}.Unicode EXE Release.Build.0 = Unicode EXE Release|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug.ActiveCfg = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug.Build.0 = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Debug Static Link Library.Build.0 = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.DebugUnicode.ActiveCfg = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.DebugUnicode.Build.0 = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Release.ActiveCfg = Release|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Release.Build.0 = Release|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{A92D898F-6E4B-48E7-B115-718D08B91921}.Unicode EXE Release.Build.0 = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Debug Static Link Library.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.DebugUnicode.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.DebugUnicode.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Release.ActiveCfg = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Release.Build.0 = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{208EC699-F029-4206-94AF-D42DF3AE0B64}.Unicode EXE Release.Build.0 = Release|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug.ActiveCfg = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug.Build.0 = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug Dynamic Link Library.ActiveCfg = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug Dynamic Link Library.Build.0 = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug Static Link Library.ActiveCfg = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Debug Static Link Library.Build.0 = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.DebugUnicode.ActiveCfg = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.DebugUnicode.Build.0 = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Release.ActiveCfg = Release|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Release.Build.0 = Release|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Unicode EXE Debug.ActiveCfg = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Unicode EXE Debug.Build.0 = Debug|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Unicode EXE Release.ActiveCfg = Release|Win32
+		{534EBCDD-ED48-46A2-8FB3-A8C81C24583B}.Unicode EXE Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
